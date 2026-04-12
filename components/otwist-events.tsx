@@ -64,7 +64,7 @@ const rewardsPerks = [
   },
 ]
 
-export function OstwiseEvents() {
+export function OtwistEvents() {
   const [hoveredEvent, setHoveredEvent] = useState<string | null>(null)
 
   return (

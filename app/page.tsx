@@ -2,7 +2,7 @@ import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { FeaturedItems } from "@/components/featured-items"
 import { ServicesSection } from "@/components/services-section"
-import { OstwiseEvents } from "@/components/ostwise-events"
+import { OtwistEvents } from "@/components/otwist-events"
 import { Testimonials } from "@/components/testimonials"
 import { Footer } from "@/components/footer"
 import type { MenuItem } from "@/lib/types"
@@ -96,7 +96,7 @@ export default function HomePage() {
       <Hero />
       <FeaturedItems items={featuredItems} />
       <ServicesSection />
-      <OstwiseEvents />
+      <OtwistEvents />
       <Testimonials />
       <Footer />
     </main>

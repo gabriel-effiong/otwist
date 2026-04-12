@@ -45,7 +45,7 @@ export function Header() {
           </div>
           <div className="flex flex-col">
             <span className="text-xl font-bold tracking-tight text-foreground">
-              Ostwise
+              Otwist
             </span>
             <span className="text-xs font-medium text-primary -mt-1">EVENT</span>
           </div>

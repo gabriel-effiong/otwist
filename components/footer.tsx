@@ -53,7 +53,7 @@ export function Footer() {
             <div className="mt-6 space-y-3">
               <a href="mailto:hello@ostwise.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-4 w-4" />
-                hello@ostwise.com
+                hello@otwist.com
               </a>
               <a href="tel:+1234567890" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors">
                 <Phone className="h-4 w-4" />
@@ -119,7 +119,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Ostwise Event. All rights reserved.
+            &copy; {new Date().getFullYear()} Otwist Event. All rights reserved.
           </p>
           <div className="flex gap-4">
             {social.map((item) => (
