@@ -79,7 +79,7 @@ export function OtwistEvents() {
           <div>
             <div className="flex items-center gap-2 mb-3">
               <Sparkles className="h-5 w-5 text-primary" />
-              <span className="text-sm font-medium text-primary uppercase tracking-wider">Ostwise Events</span>
+              <span className="text-sm font-medium text-primary uppercase tracking-wider">Ortwist Events</span>
             </div>
             <h2 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
               Exclusive Culinary Experiences
@@ -179,7 +179,7 @@ export function OtwistEvents() {
                   <Star className="h-6 w-6 text-primary-foreground" />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-foreground">Ostwise Rewards</h3>
+                  <h3 className="text-2xl font-bold text-foreground">Otwist Rewards</h3>
                   <p className="text-sm text-muted-foreground">Join 50,000+ members</p>
                 </div>
               </div>

@@ -20,7 +20,7 @@ const testimonials = [
     role: "Corporate Events Manager",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80",
     rating: 5,
-    text: "We've partnered with Ostwise for all our corporate events. Their professionalism, punctuality, and the quality of food are consistently outstanding. Real-time tracking gives us peace of mind every time.",
+    text: "We've partnered with Otwist for all our corporate events. Their professionalism, punctuality, and the quality of food are consistently outstanding. Real-time tracking gives us peace of mind every time.",
     eventType: "Corporate Events",
   },
   {

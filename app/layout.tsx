@@ -14,19 +14,19 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Ostwise Event | Premium Catering & Food Delivery',
+  title: 'Otwist Event | Premium Catering & Food Delivery',
   description: 'Experience exceptional catering services and food delivery for your events. From intimate gatherings to grand celebrations, Ostwise Event delivers culinary excellence.',
   keywords: ['catering', 'food delivery', 'event catering', 'corporate catering', 'party food', 'meal delivery'],
-  authors: [{ name: 'Ostwise Event' }],
+  authors: [{ name: 'Otwist Event' }],
   openGraph: {
-    title: 'Ostwise Event | Premium Catering & Food Delivery',
+    title: 'Otwist Event | Premium Catering & Food Delivery',
     description: 'Experience exceptional catering services and food delivery for your events.',
     type: 'website',
-    siteName: 'Ostwise Event',
+    siteName: 'Otwist Event',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ostwise Event | Premium Catering & Food Delivery',
+    title: 'Otwist Event | Premium Catering & Food Delivery',
     description: 'Experience exceptional catering services and food delivery for your events.',
   },
 }
